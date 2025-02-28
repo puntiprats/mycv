@@ -7,3 +7,5 @@ function activate(e) {
 }
 
 document.addEventListener('click',activate,false);
+
+// Este script es muy pequeñito
